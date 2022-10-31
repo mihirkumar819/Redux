@@ -1,0 +1,17 @@
+a{
+    background-color: rgb(0, 255, 115);
+    color: blueviolet;
+    text-align: center;
+    margin:5px;
+
+}
+.box{
+    background-color: brown;
+    margin: 20px;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+}
+li{
+    margin: 20px;
+}
